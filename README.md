@@ -1,4 +1,3 @@
-# Fabric_DP700_lab05
 # 🚀 Create and Use Dataflows (Gen2) in Microsoft Fabric
 
 ## Lab Purpose
